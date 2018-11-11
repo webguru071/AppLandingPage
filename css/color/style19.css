@@ -1,0 +1,6 @@
+.gradient-color {
+    background: #fc354c;
+    background: -moz-linear-gradient(30deg, #fc354c, #0abfbc);
+    background: -webkit-linear-gradient(30deg, #fc354c, #0abfbc);
+    background: linear-gradient(30deg, #fc354c, #0abfbc);
+}

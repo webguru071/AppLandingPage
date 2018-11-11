@@ -1,0 +1,19 @@
+.gradient-color {
+    /* background: #1a2a6c;
+    background: -moz-linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    background: -webkit-linear-gradient(135deg, #6c201a, #b21f1f, #fdbb2d); 
+    background: linear-gradient(135deg,  #6c201a, #b21f1f, #fdbb2d);  */
+
+    background:-moz-linear-gradient(135deg, #fc6e1c, #e73e0be1, #fdbb2d);
+    background: -webkit-linear-gradient(135deg, #fc6e1c, #e73e0be1, #fdbb2d);
+    background: linear-gradient(135deg, #fc6e1c, #e73e0be1, #fdbb2d);
+
+    /* background:-moz-linear-gradient(135deg, #e95510, #dac800) !important;
+    background: -webkit-linear-gradient(135deg, #e95510, #dac800) !important;
+    background: linear-gradient(135deg, #e95510, #dac800) !important; */
+}
+/* .gradient-color-custom {
+    background:-moz-linear-gradient(135deg, #fc6e1c, #e73e0be1, #fdbb2d);
+    background: -webkit-linear-gradient(135deg, #fc6e1c, #e73e0be1, #fdbb2d);
+    background: linear-gradient(135deg, #e95510, #dac800) !important; 
+} */
